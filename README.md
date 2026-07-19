@@ -107,12 +107,23 @@ void loop() {
 ## 📷 Project Preview
 
 ### Circuit
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-19 at 14 33 59 (1)" src="https://github.com/user-attachments/assets/368085ca-2bcc-41dd-ad9f-f58765e4e1f9" />
 
-*(Insert your circuit image here)*
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-19 at 14 33 59" src="https://github.com/user-attachments/assets/8d7a1464-2f6a-49b2-ae0e-92340a441d24" />
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-19 at 14 33 58 (3)" src="https://github.com/user-attachments/assets/a2631277-98f1-49a0-9d97-9ba87cddae20" />
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-19 at 14 33 58 (2)" src="https://github.com/user-attachments/assets/0610aff1-c073-45f0-85e0-3d42187e06ed" />
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-07-19 at 14 33 58 (1)" src="https://github.com/user-attachments/assets/76571842-0791-4402-96ae-ec418bbeec49" />
 
 ### Demo
 
-*(Insert your project video or GIF here)*
+
+
+https://github.com/user-attachments/assets/10dd2bdc-aac5-48e1-a0cd-c3eca27775ca
+
+
 
 ---
 
