@@ -61,32 +61,32 @@ Repeat...
 
 ```cpp
 void setup() {
-  pinMode(8, OUTPUT);
-  pinMode(9, OUTPUT);
-  pinMode(10, OUTPUT);
+  pinMode(8, OUTPUT);    // Red LED
+  pinMode(12, OUTPUT);   // Yellow LED
+  pinMode(10, OUTPUT);   // Green LED
 }
 
 void loop() {
 
-  // Red
-  digitalWrite(8, HIGH);
-  delay(5000);
-  digitalWrite(8, LOW);
-
-  // Yellow
-  digitalWrite(9, HIGH);
-  delay(2000);
-  digitalWrite(9, LOW);
-
-  // Green
+  // Green light
   digitalWrite(10, HIGH);
   delay(5000);
   digitalWrite(10, LOW);
 
-  // Yellow
-  digitalWrite(9, HIGH);
+  // Yellow light
+  digitalWrite(12, HIGH);
   delay(2000);
-  digitalWrite(9, LOW);
+  digitalWrite(12, LOW);
+
+  // Red light
+  digitalWrite(8, HIGH);
+  delay(5000);
+  digitalWrite(8, LOW);
+
+  // Yellow light
+  digitalWrite(12, HIGH);
+  delay(2000);
+  digitalWrite(12, LOW);
 }
 ```
 
