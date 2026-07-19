@@ -38,7 +38,7 @@ This project expands on previous Arduino projects by introducing multiple output
 | LED       | Arduino Pin |
 | --------- | ----------- |
 | 🔴 Red    | D8          |
-| 🟡 Yellow | D9          |
+| 🟡 Yellow | D12         |
 | 🟢 Green  | D10         |
 
 Each LED is connected in series with a resistor before connecting to GND.
