@@ -117,6 +117,8 @@ void loop() {
 
 <img width="1600" height="1200" alt="WhatsApp Image 2026-07-19 at 14 33 58 (1)" src="https://github.com/user-attachments/assets/76571842-0791-4402-96ae-ec418bbeec49" />
 
+<img width="1365" height="602" alt="Cuplikan layar 2026-07-19 160949" src="https://github.com/user-attachments/assets/f95f1bdc-e436-409e-aa1e-5eefe724dfb3" />
+
 ### Demo
 
 
